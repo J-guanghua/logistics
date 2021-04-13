@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "camel\\logistics\\": "logistics/"
+            "camel\\logistics\\": ""
         }
     }
 }
