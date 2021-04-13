@@ -1,0 +1,20 @@
+{
+    "name": "aliyun/logistics",
+    "description": "订单物流信息查询",
+    "type": "extension",
+    "keywords": ["logistics","extension"],
+    "homepage": "https://github.com/J-guanghua/logistics",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "J-guanghua",
+            "email": "hua.163com@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "aliyun\\logistics\\": ""
+        }
+    }
+}
+
