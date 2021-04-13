@@ -1,5 +1,5 @@
 {
-    "name": "aliyun/logistics",
+    "name": "camel/logistics",
     "description": "订单物流信息查询",
     "type": "extension",
     "keywords": ["logistics","extension"],
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "aliyun\\logistics\\": ""
+            "camel\\logistics\\": ""
         }
     }
 }
